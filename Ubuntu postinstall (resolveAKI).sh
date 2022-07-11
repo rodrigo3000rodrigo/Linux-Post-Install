@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+#apt install vulkan-tools mesa-utils mesa-va-drivers mesa-vdpau-drivers mesa-vulkan-drivers dxvk beignet-opencl-icd ubuntu-restricted-extras -y
+
 # ----------------------------- VARIÁVEIS ----------------------------- #
 PPA_LIBRATBAG="ppa:libratbag-piper/piper-libratbag-git"
 PPA_LUTRIS="ppa:lutris-team/lutris"
