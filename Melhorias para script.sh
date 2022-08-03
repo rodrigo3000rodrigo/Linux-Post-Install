@@ -21,4 +21,8 @@ instalação do musescore
 instação do virtualbox
 instalação do office (wps office ou onyoffice) ainda decidir e escolher 
 
+gerenciador de tarefas do windows no linux (SysMonTask)
+install via pacote
+https://github.com/KrispyCamel4u/SysMonTask
+
 o que remover
